@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#00FF00"
+        android:pathData="M 54 20 L 84 40 L 84 80 L 24 80 L 24 40 Z"/>
+    <!-- Placeholder for "FINTECH", since text is not directly supported in vectors easily without path data, I will just draw a simple F and T shape -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M 40 45 L 45 45 L 45 65 L 40 65 Z M 40 45 L 55 45 L 55 50 L 40 50 Z M 40 55 L 50 55 L 50 60 L 40 60 Z"/>
+</vector>
